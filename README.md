@@ -28,10 +28,10 @@ Maintaining momentum: Shib is already a well-organized community, leads in the a
 
 Let us look at some technical data to determine whether Shiba Inu can reach 1 cent.
  
-Quality of Investment – Moderate
-Growth required to reach 1 cent – Not Feasible
-Market Cap at 1 Cent – Not Feasible
-Time to reach 1 cent if Shiba Inu Grows at 25% every year – Not Feasible
+* Quality of Investment – Moderate
+* Growth required to reach 1 cent – Not Feasible
+* Market Cap at 1 Cent – Not Feasible
+* Time to reach 1 cent if Shiba Inu Grows at 25% every year – Not Feasible
  
 Shiba Inu currency cannot achieve 1 cent based on the criteria of quality of investment, growth necessary, and market cap at 1 cent at least by 2025.
 
