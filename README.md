@@ -42,3 +42,4 @@ The price of SHIB could reach $0.00003965 if the developers’ visionary develop
 
 On the other hand, if investors fail to keep up with the liquidity of the digital asset on exchanges, FUD and negative sentiments could lower the price to $0.00003078.
 
+Reference - [Coinpedia](https://coinpedia.org/) 
